@@ -1,0 +1,10 @@
+# ninja log v5
+0	12	0	CMakeFiles/clean.additional	38b2095374d47d22
+12	19	0	clean	81eb795c45fc83fc
+0	71	1628252497256650899	hello_world_autogen/timestamp	f3f3949394e9ceac
+0	71	1628252497256650899	hello_world_autogen/mocs_compilation.cpp	f3f3949394e9ceac
+0	71	1628252497256650899	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/hello_world_autogen/timestamp	f3f3949394e9ceac
+0	71	1628252497256650899	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/hello_world_autogen/mocs_compilation.cpp	f3f3949394e9ceac
+71	112	1628252497305393826	CMakeFiles/hello_world.dir/hello_world_autogen/mocs_compilation.cpp.o	978a867dd4da2307
+72	1343	1628252498527415303	CMakeFiles/hello_world.dir/main.cxx.o	2edf7412431f4a71
+1345	1472	1628252498661262101	hello_world	8989cc39f304e26c

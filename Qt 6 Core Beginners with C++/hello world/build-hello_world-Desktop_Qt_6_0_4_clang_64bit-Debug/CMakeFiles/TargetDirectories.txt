@@ -1,0 +1,5 @@
+/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/CMakeFiles/hello_world.dir
+/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/CMakeFiles/hello_world_autogen_timestamp_deps.dir
+/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/hello world/build-hello_world-Desktop_Qt_6_0_4_clang_64bit-Debug/CMakeFiles/hello_world_autogen.dir
