@@ -1,0 +1,14 @@
+# ninja log v5
+1454	1525	1628874459104485890	variables	63c1bbf0475db452
+37	1454	1628874459029023333	CMakeFiles/variables.dir/main.cxx.o	9918838406942766
+83	137	1628870141696999062	CMakeFiles/variables.dir/variables_autogen/mocs_compilation.cpp.o	c8eeffee125c86a2
+3	36	1628874457619174326	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/build-variables-Desktop_Qt_6_0_4_clang_64bit-Debug/variables_autogen/mocs_compilation.cpp	93f363d3400daa48
+3	36	1628874457619174326	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/build-variables-Desktop_Qt_6_0_4_clang_64bit-Debug/variables_autogen/timestamp	93f363d3400daa48
+3	36	1628874457619174326	variables_autogen/mocs_compilation.cpp	93f363d3400daa48
+3	36	1628874457619174326	variables_autogen/timestamp	93f363d3400daa48
+3	36	1628874724444753893	variables_autogen/timestamp	93f363d3400daa48
+3	36	1628874724444753893	variables_autogen/mocs_compilation.cpp	93f363d3400daa48
+3	36	1628874724444753893	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/build-variables-Desktop_Qt_6_0_4_clang_64bit-Debug/variables_autogen/timestamp	93f363d3400daa48
+3	36	1628874724444753893	/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/build-variables-Desktop_Qt_6_0_4_clang_64bit-Debug/variables_autogen/mocs_compilation.cpp	93f363d3400daa48
+37	1495	1628874725895835043	CMakeFiles/variables.dir/main.cxx.o	9918838406942766
+1495	1565	1628874725970442919	variables	63c1bbf0475db452

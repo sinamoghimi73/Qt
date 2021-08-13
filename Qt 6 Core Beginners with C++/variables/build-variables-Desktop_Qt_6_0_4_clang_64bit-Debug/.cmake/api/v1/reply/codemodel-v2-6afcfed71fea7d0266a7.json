@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "variables",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "variables::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables-Debug-83f6c2e1e7f72b8c01d5.json",
+					"name" : "variables",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_autogen-Debug-90b28601fa582fe563b1.json",
+					"name" : "variables_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variables_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variables_autogen_timestamp_deps-Debug-75fb3e910b7a56a14bf0.json",
+					"name" : "variables_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/build-variables-Desktop_Qt_6_0_4_clang_64bit-Debug",
+		"source" : "/Users/sinamoghimi/Documents/GitHub/Qt/Qt 6 Core Beginners with C++/variables/variables"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
